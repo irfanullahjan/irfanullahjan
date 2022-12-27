@@ -9,6 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started my career as accountant (ACCA) at Ernst & Young (EY), then made a switch to software development
 - 📲 My project portfolio:
+  - An educational website focussing on finance and accounting: https://xplaind.com, it has accumulated over 20 million pageviews
   - C++, JUICE Audio player: https://www.youtube.com/watch?v=CjjR4VaoARI
   - React Native, Firebase app: https://www.youtube.com/watch?v=p3Rfab8EipA
   - More: https://github.com/irfanullahjan?tab=repositories
