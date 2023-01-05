@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Currently working on a web-based book-keeping software
-- 🌱 Learning Nest.js
+- 🌱 Learning Nest.js and TypeORM
 - 👯 Looking to collaborate on finance applications
 - 📫 How to reach me:
   - 🔗 [LinkedIn/irfanullahjan](https://www.linkedin.com/in/irfanullahjan/)
