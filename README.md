@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working on [debit-credit](https://github.com/irfanullahjan/debit-credit) a web-based book-keeping software
+- 🔭 Currently working on [debit-credit](https://github.com/irfanullahjan/debit-credit), a web-based book-keeping software
 - 🌱 Learning Nest.js and TypeORM
 - 👯 Looking to collaborate on finance applications
 - 📫 How to reach me:
