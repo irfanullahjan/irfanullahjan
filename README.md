@@ -12,8 +12,8 @@
   | A protein classification REST API and social app | Python, JavaScript (TypeScript), Django, DRF, Next.js | [source code](https://github.com/irfanullahjan/cm3035-advanced-web-development) | N/A |
   | A game project (teamwork) | C#, Unity game engine | [source code](https://github.com/irfanullahjan/cm3030-game-development) | N/A |
   | Machine learning project | Python, Jupyter Notebooks | [source code](https://github.com/irfanullahjan/cm3015-machine-learning-and-neural-networks) | N/A |
-  | A databases (SQL) project | SQL | [source code](https://github.com/irfanullahjan/cm3010-databases-and-advanced-data-techniques) | N/A |
-  | A web app | MySQL, EJS templates, Express.js | [source code](https://github.com/irfanullahjan/cm2040-databases-networks-web) | N/A |
+  | A databases (SQL) project | SQL, Express.js, JavaScript | [source code](https://github.com/irfanullahjan/cm3010-databases-and-advanced-data-techniques) | N/A |
+  | A template based web app | MySQL, EJS templates, Express.js | [source code](https://github.com/irfanullahjan/cm2040-databases-networks-web) | N/A |
 
 - 🔭 Currently working on [debit-credit](https://github.com/irfanullahjan/debit-credit), a web-based book-keeping software
 - 🌱 Learning Java, Spring.
