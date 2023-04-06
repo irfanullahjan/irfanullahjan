@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🪪 My name is Irfan.
 - 🏗️ My project portfolio:
 
   | Description | Techstack | Source Code | Link |
@@ -19,7 +20,6 @@
 - 🌱 Learning Java, Spring.
 - 👯 Looking to collaborate on accounting / finance software projects
 - 😄 Pronouns: He/Him
-- 🪪 Name: Irfan
 - 📫 How to reach me:
   - 🔗 [LinkedIn/irfanullahjan](https://www.linkedin.com/in/irfanullahjan/)
   - 📚 [StackOverflow/IrfanullahJan](https://stackoverflow.com/users/975164/irfanullah-jan)
