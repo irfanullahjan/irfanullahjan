@@ -5,8 +5,9 @@
 
   | Description | Techstack | Source Code | Link |
   | --- | --- | --- | --- |
+  | A Covid19 data visualization app | JavaScript (TypeScript), Nest.js, React.js (Next.js), TypeORM | [source code](https://github.com/irfanullahjan/covid-data) |  |
   | An educational website I co-founded | PHP, MySQL, HTML, CSS, jQuery | private | https://xplaind.com |
-  | An accounting web application | JavaScript (TypeScript), Nest.js, React.js (Next.js), PostgreSQL | [source code](https://github.com/irfanullahjan/debit-credit) | [video demo](https://www.youtube.com/watch?v=Fp8RyL1rRQI) |
+  | An accounting web application | JavaScript (TypeScript), Nest.js, React.js (Next.js), TypeORM/PostgreSQL | [source code](https://github.com/irfanullahjan/debit-credit) | [video demo](https://www.youtube.com/watch?v=Fp8RyL1rRQI) |
   | A cross-platform mobile app to manage petty cash | JavaScript, React Native, Google Cloud Firebase | [source code](https://github.com/irfanullahjan/cm3050-mobile-development) | [video demo](https://www.youtube.com/watch?v=p3Rfab8EipA) |
   | A desktop audio player | C++, JUCE library | private | [video demo](https://www.youtube.com/watch?v=CjjR4VaoARI) |
   | A real estate demo web app | JavaScript (TypeScript), Loopback 4, React.js (Next.js) | [source code](https://github.com/irfanullahjan/cm2020-agile-software-projects) | N/A |
