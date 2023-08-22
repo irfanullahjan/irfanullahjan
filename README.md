@@ -17,7 +17,7 @@
   | A databases (SQL) project | SQL, Express.js, JavaScript | [source code](https://github.com/irfanullahjan/cm3010-databases-and-advanced-data-techniques) | N/A |
   | A template based web app | MySQL, EJS templates, Express.js | [source code](https://github.com/irfanullahjan/cm2040-databases-networks-web) | N/A |
 
-- 🔭 Currently working on [debit-credit](https://github.com/irfanullahjan/debit-credit), a web-based book-keeping software
+- 🔭 Currently working at SimCorp developing micro-frontends with Angular.
 - 🌱 Learning Java, Spring.
 - 👯 Looking to collaborate on accounting / finance software projects
 - 😄 Pronouns: He/Him
