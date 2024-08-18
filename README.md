@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://stackoverflow-card.vercel.app/?userID=975164" />
+<a href="https://stackoverflow.com/users/975164/irfanullah-jan">
+  <img src="https://stackoverflow-card.vercel.app/?userID=975164" />
+</a>
 
 - 🪪 My name is Irfan.
 - 🏗️ My project portfolio:
