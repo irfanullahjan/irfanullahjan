@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-<a href="https://stackoverflow.com/users/975164/irfanullah-jan">
-  <img src="https://stackoverflow-card.vercel.app/?userID=975164" />
-</a>
-
 - 🪪 My name is Irfan.
+- 🔭 Currently working at SimCorp developing finacial applications with Angular/Lit and Dotnet/Azure.
+- 🌱 Learning: Systems, AI
+- 👯 Looking to collaborate on accounting / finance web apps
+- 📫 How to reach me:
+  - 🔗 [LinkedIn/irfanullahjan](https://www.linkedin.com/in/irfanullahjan/)
+  - 📚 [StackOverflow/IrfanullahJan](https://stackoverflow.com/users/975164/irfanullah-jan)
+- ⚡ Fun fact: I started my career as accountant
 - 🏗️ My project portfolio:
 
   | Description | Techstack | Source Code | Link |
@@ -21,11 +24,3 @@
   | A databases (SQL) project | SQL, Express.js, JavaScript | [source code](https://github.com/irfanullahjan/cm3010-databases-and-advanced-data-techniques) | N/A |
   | A template based web app | MySQL, EJS templates, Express.js | [source code](https://github.com/irfanullahjan/cm2040-databases-networks-web) | N/A |
 
-- 🔭 Currently working at SimCorp developing micro-frontends with Angular.
-- 🌱 Learning Java, Spring.
-- 👯 Looking to collaborate on accounting / finance software projects
-- 😄 Pronouns: He/Him
-- 📫 How to reach me:
-  - 🔗 [LinkedIn/irfanullahjan](https://www.linkedin.com/in/irfanullahjan/)
-  - 📚 [StackOverflow/IrfanullahJan](https://stackoverflow.com/users/975164/irfanullah-jan)
-- ⚡ Fun fact: I started my career as accountant (ACCA) at Ernst & Young (EY), then made a switch to software development
